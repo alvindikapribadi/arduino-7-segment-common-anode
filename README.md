@@ -62,7 +62,7 @@ This example is intentionally written without any external library to help begin
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_7Segment_Common_Anode.ino)
+[Download Arduino Code](arduino-seven-segment-basic-0-9-common-anode.ino)
 
 Or open the `.ino` file directly inside this repository.
 
